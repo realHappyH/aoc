@@ -1,0 +1,18 @@
+[
+  {
+    "lang": {
+      "codemirror": "haskell",
+      "name": "Haskell"
+    },
+    "path": ["./day1/day1a.hs", "./day1/day1b.hs"],
+    "completed": true
+  },
+  {
+    "lang": {
+      "codemirror": "clike",
+      "name": "C++"
+    },
+    "path": "2025/day02/src/giftshop.clj",
+    "completed": true
+  }
+]

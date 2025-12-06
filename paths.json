@@ -12,7 +12,7 @@
       "codemirror": "clike",
       "name": "C++"
     },
-    "path": ["day2/day2a.cpp", "day2/day2b.cpp"],
+    "path": ["./day2/day2a.cpp", "./day2/day2b.cpp"],
     "completed": true
   }
 ]

@@ -14,5 +14,13 @@
     },
     "path": ["./day2/day2a.cpp", "./day2/day2b.cpp"],
     "completed": true
+  },
+  {
+    "lang": {
+      "codemirror": "lean",
+      "name": "Lean"
+    },
+    "path": ["./day3/day3a.lean"],
+    "completed": false
   }
 ]

@@ -20,7 +20,7 @@
       "codemirror": "lean",
       "name": "Lean"
     },
-    "path": ["./day3/day3a.lean"],
-    "completed": false
+    "path": ["./day3/day3a.lean", "./day3/day3b.lean"],
+    "completed": true
   }
 ]
